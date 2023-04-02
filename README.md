@@ -6,4 +6,5 @@ The key feature of this project is:
 - Configured CMakeLists.txt in diffrenet folders
 - Good structure for your project
 - Good structure for CMakeLists.txt
+
 If you want to use mock tests, you should add the correspondig header in your test file.
